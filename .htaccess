@@ -16,6 +16,8 @@
     RewriteRule   ^.$  index.html
     RewriteRule   ^/$  index.html
     RewriteRule   ^$  index.html
+    RewriteRule   ^dlMetro$  dlMetro.html
+    RewriteRule   ^dlMetro-examples(.*)$  examples/dlMetro-examples$1 [P]
 </IfModule>
 
 
