@@ -19,6 +19,8 @@
     RewriteRule   ^dlMetro$  dlMetro.html
     RewriteRule   ^dlMetro/examples(.*)$  examples/dlMetro-examples$1
     RewriteRule   ^dlMetro/core(.*)$  examples/core$1
+    RewriteRule   ^tython$  tython.html
+    RewriteRule   ^websu$  websu.html
 </IfModule>
 
 
