@@ -21,6 +21,7 @@
     RewriteRule   ^dlMetro/core(.*)$  examples/core$1
     RewriteRule   ^tython$  tython.html
     RewriteRule   ^websu$  websu.html
+    RewriteRule   ^apps(.*)$  ../apps$1
 </IfModule>
 
 
