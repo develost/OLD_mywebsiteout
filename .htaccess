@@ -17,6 +17,7 @@
     RewriteRule   ^/$  index.html
     RewriteRule   ^$  index.html
     RewriteRule   ^dlMetro$  dlMetro.html
+    RewriteRule   ^surfway$  surfway.html
     RewriteRule   ^dlMetro/examples(.*)$  examples/dlMetro-examples$1
     RewriteRule   ^dlMetro/core(.*)$  examples/core$1
     RewriteRule   ^tython$  tython.html
