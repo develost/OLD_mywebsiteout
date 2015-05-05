@@ -22,6 +22,7 @@
     RewriteRule   ^dlMetro/core(.*)$  examples/core$1
     RewriteRule   ^tython$  tython.html
     RewriteRule   ^websu$  websu.html
+    RewriteRule   ^websu-parameters$  websu-params.html
     RewriteRule   ^https://github.com/develost/websu(.*)$  https://github.com/develost/websu$1 [P]
 </IfModule>
 
