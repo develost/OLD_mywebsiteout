@@ -21,6 +21,7 @@
     RewriteRule   ^https://github.com/develost/surfway(.*)$  https://github.com/develost/surfway$1 [P]
     RewriteRule   ^dlMetro/examples(.*)$  examples/dlMetro-examples$1
     RewriteRule   ^dlMetro/core(.*)$  examples/core$1
+    RewriteRule   ^keyframes-animation-studio-demo(.*)$  examples/keyframes-animation-studio-demo$1
     RewriteRule   ^tython$  tython.html
     RewriteRule   ^visibility-program$  visibility-program.html
     RewriteRule   ^websu$  websu.html
