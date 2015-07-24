@@ -26,6 +26,7 @@
     RewriteRule   ^visibility-program$  visibility-program.html
     RewriteRule   ^websu$  websu.html
     RewriteRule   ^keyframesanimationstudio$  keyframesanimationstudio.html
+    RewriteRule   ^keyframes-playground$  keyframes-playground.html
     RewriteRule   ^websu-parameters$  websu-params.html
     RewriteRule   ^https://github.com/develost/websu(.*)$  https://github.com/develost/websu$1 [P]
 </IfModule>
