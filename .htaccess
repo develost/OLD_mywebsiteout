@@ -16,6 +16,7 @@
     RewriteRule   ^.$  index.html
     RewriteRule   ^/$  index.html
     RewriteRule   ^$  index.html
+    RewriteRule   ^cookiepolicy$  cookiepolicy.html
     RewriteRule   ^dlMetro$  dlMetro.html
     RewriteRule   ^surfway$  surfway.html
     RewriteRule   ^https://github.com/develost/surfway(.*)$  https://github.com/develost/surfway$1 [P]
